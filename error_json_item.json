@@ -1,0 +1,21 @@
+{
+    "format_version": 1,
+    "items": [
+        {
+            "id": "004",
+            "name": "Avatar",
+            "category": "Fantasy",
+            "year": 2009,
+            "director": "Cameron",
+            "views": 162
+        },
+        {
+            "id": "005",
+            "name": "",
+            "category": "Action",
+            "year": 2024,
+            "director": "John",
+            "views": 120
+        }
+    ]
+}
